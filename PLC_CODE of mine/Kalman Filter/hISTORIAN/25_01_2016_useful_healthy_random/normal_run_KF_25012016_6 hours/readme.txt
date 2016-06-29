@@ -1,0 +1,3 @@
+here we run for 6 hours....later data has more noise than earlier runs....
+
+we are using earlier runs as a reference to find threshols limits etc.
